@@ -1,5 +1,5 @@
 ## Trabajo Práctico Grupal Obligatorio - Codo a Codo 4.0 Big Data / Data Analytics
-Este repositorio contiene el trabajo práctico grupal obligatorio realizado como parte del curso Codo a Codo 4.0 en la especialización de Big Data / Data Analytics, llevado a cabo en mayo y junio de 2024.
+Este repositorio contiene el trabajo práctico grupal obligatorio realizado como parte del curso Codo a Codo 4.0 en la especialización de Big Data / Data Analytics.
 
 ## Descripción del Proyecto
 El objetivo de este proyecto fue realizar un análisis exhaustivo de las operaciones de Construction Materials Megacorp (CMM), una empresa multinacional de materiales de construcción, en la región LATAM, 
